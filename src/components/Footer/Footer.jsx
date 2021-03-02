@@ -83,7 +83,7 @@ function Footer() {
             <SocialIcon />
             ECOM EXAMPLE
           </SocialLogo>
-          <WebsiteRights>ECOM EXAMPLE © 2020</WebsiteRights>
+          <WebsiteRights>ECOM EXAMPLE © 2021</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
               <FaFacebook />
