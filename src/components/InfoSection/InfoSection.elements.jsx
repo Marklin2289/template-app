@@ -11,6 +11,7 @@ export const InfoRow = styled.div`
   margin: 0 -15px -15px -15px;
   flex-wrap: wrap;
   align-items: center;
+  /* fill-opacity: 0.5; */
   flex-direction: ${({ imgStart }) => (imgStart ? "row-reverse" : "row")};
 `;
 

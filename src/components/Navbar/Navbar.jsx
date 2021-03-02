@@ -43,7 +43,7 @@ function Navbar() {
           <NavbarContainer>
             <NavLogo to="/" onClick={handleClick}>
               <NavIcon />
-              ULTRA
+              Ecom Example
             </NavLogo>
             <MobileIcon onClick={handleClick}>
               {click ? <FaTimes /> : <FaBars />}

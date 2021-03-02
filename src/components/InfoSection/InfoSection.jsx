@@ -23,7 +23,7 @@ function InfoSection({
   headline,
   description,
   buttonLabel,
-  img,
+  src,
   alt,
   imgStart,
   start,
@@ -47,7 +47,7 @@ function InfoSection({
             </InfoColumn>
             <InfoColumn>
               <ImgWrapper start={start}>
-                <Img src={img} alt={alt} />
+                <Img src={src} alt={alt} />
               </ImgWrapper>
             </InfoColumn>
           </InfoRow>
