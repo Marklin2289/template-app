@@ -72,3 +72,21 @@ export const homeObjFour = {
   alt: "Vault",
   start: "true",
 };
+export const homeObjFive = {
+  primary: false,
+  lightBg: true,
+  lightTopLine: false,
+  lightText: false,
+  lightTextDesc: false,
+  topLine: "Partnership",
+  headline: "NetWorking is the KEY, we have huge resource to access",
+  description:
+    "The ability to network is one of the most crucial skills any entrepreneur can have. How else will you meet the clients and contacts necessary to grow your business? But many people are put off by the idea of networking, thinking it requires a phony, glad-handing personality that oozes insincerity. Nothing could be farther from the truth.",
+  buttonLabel: "Sign Up Now",
+  imgStart: "start",
+  // src: require("../../images/svg-3.svg"),
+  src:
+    "https://icon-library.com/images/neural-network-icon/neural-network-icon-7.jpg",
+  alt: "Vault",
+  start: "true",
+};
